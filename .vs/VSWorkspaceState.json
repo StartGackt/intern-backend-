@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Api\\Controllers",
+    "\\Api\\Controllers\\Entities",
+    "\\Api\\Controllers\\Entities\\CommonModels",
+    "\\Api\\Controllers\\Entities\\RequestModels",
+    "\\Api\\Controllers\\Entities\\ResponseModels",
+    "\\Application"
+  ],
+  "SelectedNode": "\\Api\\Controllers\\Entities\\CommonModels",
+  "PreviewInSolutionExplorer": false
+}
