@@ -1,4 +1,12 @@
 version = 1
 
 [[analyzers]]
-name = "csharp"
+name = "dotnet"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "6.0"
+
+[thresholds]
+max_issues = 0
+blocker_issues = true
